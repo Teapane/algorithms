@@ -33,7 +33,6 @@ class LinkedListTest < Minitest::Test
   end
 
   def test_pop_gets_rid_of_an_element
-  
     linked_list = LinkedList.new
     linked_list.push 1
     linked_list.push 2
