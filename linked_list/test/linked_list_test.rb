@@ -16,12 +16,20 @@ class LinkedListTest < Minitest::Test
     assert_equal 1, linked_list.count
   end
 
-  def test_count_works_a_lot
+  def test_counts_multiple_pushes
     linked_list = LinkedList.new
     50.times do 
       linked_list.push rand(100)
     end
     assert_equal 50, linked_list.count 
+  end
+  
+  def test_counts_large_push
+    linked_list = LinkedList.new
+    1000.times do 
+      linked_list.push (rand 500)
+    end
+    assert_equal 1000, linked_list.count
   end
 
   def test_pop_gets_rid_of_an_element
