@@ -44,9 +44,3 @@ class LinkedList
     @head = current 
   end
 end
-
-
-
-
-  
-
