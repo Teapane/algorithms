@@ -13,8 +13,8 @@ This is a small collection of algorithms I have written in Ruby and tested with 
 **Linked List**
   A Linked List is a data structure consiting of a group of nodes, which together represent a sequence.  
   In order to make a linked list, I needed to: 
-    * Create a Node class
-    * Creating a Linked List class that utilizes the Node class. 
+    *  Create a Node class
+    *  Creating a Linked List class that utilizes the Node class. 
   This test suite originates from an exercise we did in class here at gSchool by Jumpstart Labs. 
 
 **Prime Factors**
