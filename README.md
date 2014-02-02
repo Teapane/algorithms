@@ -32,7 +32,7 @@ This is a small collection of algorithms I have written in Ruby and tested with 
   This test suites originates from Exercism.io[http://exercism.io]
 
 **Algorithms I have started but haven't finished**
-**A*
+**A star
 **Merge Sort
 **Ternary Search
 
