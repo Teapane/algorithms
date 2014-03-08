@@ -24,7 +24,7 @@ This is a small collection of algorithms I have written in Ruby and tested with 
     
     *  Creating a Linked List class that utilizes the Node class. 
     
-  This test suite originates from an exercise we did in class here at gSchool by Jumpstart Labs. 
+  This test suite originates from an exercise we did in class here at gSchool by Jumpstart Lab. 
 
 **Prime Factors**
   The Prime Factors of a positive integer are the prime number that divide the integer exactly.  
