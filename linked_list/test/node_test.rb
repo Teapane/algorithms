@@ -17,6 +17,6 @@ class NodeTest < Minitest::Test
   def test_it_has_a_link
     node = Node.new("valid")
     node.link = Node.new("valids best friend")
-    assert_equal "valids best frien", node.link.data
+    assert_equal "valids best friend", node.link.data
   end
 end
