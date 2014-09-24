@@ -1,6 +1,6 @@
 class Node
   attr_reader :data
-  attr_accesor :link
+  attr_accessor :link
 
   def initialize(data)
     @data = data
