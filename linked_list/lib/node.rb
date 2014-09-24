@@ -1,6 +1,5 @@
 class Node
   attr_reader :data
-  #attr_accessor :link
   attr_accesor :link
 
   def initialize(data)
