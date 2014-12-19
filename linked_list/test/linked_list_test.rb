@@ -49,7 +49,3 @@ class LinkedListTest < Minitest::Test
     assert_equal 2, linked_list.head.data
   end
 end
-
-
-
-
